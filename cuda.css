@@ -1,0 +1,203 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+#welcome{
+	background-color: #87509c;
+	color: #ffffff;
+	padding: 60px 10px;
+}
+
+.container-full{
+	padding: 0;
+	margin: 0 auto;
+	width: 100%;
+}
+
+.navbar-brand{
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+	font-size: 1.8em;
+	letter-spacing: 2px;
+}
+.navbar{
+	margin-bottom: 0;
+	background-color: #87509c;
+	color: #ffffff;
+	border-radius: 0;
+}
+
+.navbar a{
+	color: #ffffff;
+}
+
+.navbar li>a{
+	text-transform: uppercase;
+}
+
+#services {
+	background-color: #17c2a4;
+	color: #ffffff;
+	padding: 45px 10px;
+}
+
+#team {
+	background-color: #e7f1f8;
+	color: #3c4761;
+	padding: 60px 10px;
+}
+
+#skills {
+	background-color: #ffffff;
+	color: #3c4761;
+	padding: 60px 10px;
+}
+
+#portfolio {
+	background-color: #ffdd99;
+	color: #393939;
+	padding: 60px 10px;
+}
+
+#testimonials {
+	background-color: #d74680;
+	color: #ffffff;
+	padding: 60px 10px;
+}
+
+#contact {
+	background-color: #3c5499;
+	color: #ffffff;
+	padding: 60px 10px;
+}
+
+#contact-footer{
+	background-color: #344b8e;
+	color: #ffffff;
+	padding: 10px;
+}
+
+#contact-footer a{
+	color: #ffffff;
+	font-size: 1.2em;
+}
+
+#contact-footer a:hover{
+	color: #30bae7;
+	text-decoration: none;
+}
+
+.navbar-nav>li>a:hover {
+	background-color: #643a79;
+}
+
+#intro {
+	font-weight: 600;
+	font-size: 2em;
+}
+
+.section-header{
+	letter-spacing: 2px;
+	font-weight: bold;
+	font-size: 1.7em;
+}
+
+h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h3{
+	font-size: 1.3em;
+}
+
+h4{
+	font-size: 1em;
+}
+
+.light-font{
+	font-weight: lighter;
+}
+
+.blue-subtitle{
+	color: #30bae7;
+	font-weight: 600;
+}
+
+.orange-subtitle{
+	color: #ffdd99;
+	margin-top: -10px;
+}
+
+.btn{
+	text-transform: uppercase;
+	padding: 10px 50px;
+	border-radius: 4px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	box-shadow: none;
+	border: none;
+	color: #ffffff;
+}
+
+#work-btn{
+	background-color: #eb7d4b;
+	border-bottom: 3px solid #ca6b40;
+}
+#portfolio-btn{
+	background-color: #17c2a4;
+	border-bottom: 3px solid #14917b;
+}
+
+#contact-btn{
+	background-color: #30bae7;
+	border-bottom: 3px solid #27a5ce;
+}
+
+.title-underline{
+	width: 7%;
+	border: 0;
+	margin: 10px auto;
+}
+
+#services-underline{
+	border-bottom: 3px solid #13a78d;
+}
+
+#team-underline{
+	border-bottom: 3px solid #c7d9e5;
+}
+
+#skills-underline{
+	border-bottom: 3px solid #dfe8ed;
+}
+
+#portfolio-underline{
+	border-bottom: 3px solid #e5c37f;
+}
+
+#testimonials-underline{
+	border-bottom: 3px solid #b93c6e;
+}
+
+#contact-underline{
+	border-bottom: 3px solid #273a71;
+}
+
+#testimonials .row{
+	margin-bottom: 5em;
+}
+
+input[type=text], input[type=email], textarea.form-element{
+	background-color: #273a71;
+	color: #ffffff !important;
+	border: none;
+	box-shadow: none;
+	border-radius: 3px;
+	width: 100%;
+	padding: 10px;
+}
+
+.gap{
+	margin-bottom: 2em;
+}
